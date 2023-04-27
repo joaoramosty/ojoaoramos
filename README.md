@@ -5,11 +5,11 @@
 
 - No momento estou aprendendo **JavaScript**
 
-- Próximo Projeto **Componente de resumo de resultados**
+- Próximo Projeto **E-commerce**
 
-- Posso lhe ajudar **Desenvolvimento WEB**
+- Posso lhe ajudar **Desenvolvimento Front-end**
 
-- ⚡ Curiosidades **Coisas que faço sem ver o tempo passar: Estudar finanças 💸, Jogar Basquete 🏀 e Estar com as pessoas que gosto 🤩**
+- ⚡ Curiosidades **Coisas que faço sem ver o tempo passar: Ler , Estudar finanças 💸, Jogar Basquete 🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
