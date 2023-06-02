@@ -1,15 +1,14 @@
 <h1 align="center">Olá me chamo João Victor Ramos</h1>
-<h3 align="center">Desenvolvedor Front-end</h3>
+<h3 align="center">Desenvolvedor Full-stack</h3>
 
-- Atualmente estou trabalhando **landing page**
+- Atualmente estou trabalhando **No projeto: SocialDev**
 
-- No momento estou aprendendo **JavaScript**
+- No momento estou aprendendo **React**
 
-- Próximo Projeto **E-commerce**
+- Próximo Projeto **Dashboard de vagas**
 
-- Posso lhe ajudar **Desenvolvimento Front-end**
+- Posso lhe ajudar **Desenvolvimento Web**
 
-- ⚡ Curiosidades **Coisas que faço sem ver o tempo passar: Ler , Estudar finanças 💸, Jogar Basquete 🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
