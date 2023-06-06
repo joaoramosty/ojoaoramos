@@ -3,11 +3,11 @@
 
 - Atualmente estou trabalhando **No projeto: SocialDev**
 
-- No momento estou aprendendo **React**
+- No momento estou aprendendo: **React**
 
-- Próximo Projeto **Dashboard de vagas**
+- Próximo Projeto: **Dashboard de vagas**
 
-- Posso lhe ajudar **Desenvolvimento Web**
+- Posso lhe ajudar em **Desenvolvimento Web**
 
 
 <h3 align="left">Connect with me:</h3>
