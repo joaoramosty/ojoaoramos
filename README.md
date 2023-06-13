@@ -1,13 +1,13 @@
-<h1 align="center">Olá me chamo João Victor Ramos</h1>
+<h1 align="center">Olá me chamo João Ramos</h1>
 <h3 align="center">Desenvolvedor Full-stack</h3>
 
-- Atualmente estou trabalhando **No projeto: SocialDev**
+- Atualmente estou trabalhando **No projeto: SocialDev (Ignite)**
 
 - No momento estou aprendendo: **React**
 
 - Próximo Projeto: **Dashboard de vagas**
 
-- Posso lhe ajudar em **Desenvolvimento Web**
+- Posso lhe ajudar em **Desenvolvimento de aplicações web**
 
 
 <h3 align="left">Connect with me:</h3>
