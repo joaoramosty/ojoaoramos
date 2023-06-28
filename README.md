@@ -1,5 +1,5 @@
-<h1 align="center">Olá me chamo João Ramos</h1>
-<h3 align="center">Desenvolvedor Full-stack</h3>
+<h1 align="center">João Ramos</h1>
+<h3 align="center">Desenvolvedor Front-end</h3>
 
 - Atualmente estou trabalhando **No projeto: SocialDev (Ignite)**
 
