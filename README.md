@@ -1,7 +1,7 @@
 <h1 align="center">João Ramos</h1>
 <h3 align="center">Desenvolvedor Front-end</h3>
 
-- Atualmente estou trabalhando **No projeto: SocialDev (Ignite)**
+- Atualmente estou trabalhando **No projeto: PomoTimer - Ciclos de Estudo**
 
 - No momento estou aprendendo: **React**
 
