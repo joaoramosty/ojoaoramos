@@ -5,7 +5,7 @@
 
 - No momento estou aprendendo: **React**
 
-- Próximo Projeto: **Dashboard de vagas - funil**
+- Próximo Projeto: **Dashboard de vagas - funil**ss
 
 - Posso lhe ajudar em **Desenvolvimento de aplicações web**
 
